@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "Weather": 6
+  },
+  "models": {
+    "Weather": {
+      "1": "{\"id\":1,\"city\":\"San Francisco\",\"description\":\"Foggy with a chance of rain.\"}",
+      "2": "{\"id\":2,\"city\":\"Los Angeles\",\"description\":\"Sunny and warm.\"}",
+      "3": "{\"id\":3,\"city\":\"New York\",\"description\":\"Cold with occasional snow showers.\"}",
+      "4": "{\"id\":4,\"city\":\"Miami\",\"description\":\"Hot and humid with scattered thunderstorms.\"}",
+      "5": "{\"id\":5,\"city\":\"Chicago\",\"description\":\"Windy with overcast skies.\"}"
+    }
+  }
+}
